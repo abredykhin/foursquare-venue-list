@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Foursquare Venues</string>
+    <string name="network_error">There was a network error</string>
+    <string name="bookmark">Bookmark</string>
+</resources>
